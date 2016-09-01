@@ -13,6 +13,7 @@ What is Markdown?
  
 It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
   
+sh say "hello"
  
 Now, let's have some fun! 
 
@@ -27,15 +28,18 @@ Who doesn't love a good meme? Either find or create a meme about data!
 
 Share a video from YouTube that we all shoudn't live without. 
 
+
+
 Create another section header, give it a name, and italicize the header.
 
-I think Digital Humanities ___________________
+### *Third Header*
+
+I think Digital Humanities seems like a unknown/less popular but important a relevant field of study___________________
 * Finish the sentence. 
 
 The biggest questions I have going into this class are:
   * Make sure to provide your answer as a bulleted list.
   
- 
   
   
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   

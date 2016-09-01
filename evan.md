@@ -2,6 +2,10 @@ Complete the following items using Markdown.
 
 Create a section header, call it "Definition", and italicize the header.
 
+# *Definition*
+
+>Markdown is a way to style text on the web
+[Markdown Definition](https://guides.github.com/features/mastering-markdown/ "Markdown Definition") GitHub.com
 
 What is Markdown?
   * Google it! Then, provide a definition as a block quote.
@@ -14,8 +18,12 @@ Now, let's have some fun!
 
 Create another section header, give it a name, and italicize the header.
 
+## *Second Header*
+
 Who doesn't love a good meme? Either find or create a meme about data!
 * Post your meme as an image.
+
+![alt text](https://s-media-cache-ak0.pinimg.com/736x/ff/89/1c/ff891c36d10cededa0411a9100f3befe.jpg)
 
 Share a video from YouTube that we all shoudn't live without. 
 

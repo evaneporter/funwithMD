@@ -28,7 +28,9 @@ Who doesn't love a good meme? Either find or create a meme about data!
 
 Share a video from YouTube that we all shoudn't live without. 
 
-
+<a href="https://www.youtube.com/watch?v=yKP7jQknGjs
+" target="_blank"><img src="https://www.youtube.com/watch?v=yKP7jQknGjs.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Create another section header, give it a name, and italicize the header.
 

@@ -36,12 +36,14 @@ Create another section header, give it a name, and italicize the header.
 
 ### *Third Header*
 
-I think Digital Humanities seems like a unknown/less popular but important a relevant field of study___________________
+I think Digital Humanities seems like a very relevant and useful field of study___________________
 * Finish the sentence. 
 
 The biggest questions I have going into this class are:
   * Make sure to provide your answer as a bulleted list.
   
+1. What are the digital humanities?
+2. How do people use digital humanities to improve our state of life?
   
   
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
